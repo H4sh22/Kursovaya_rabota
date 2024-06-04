@@ -1,0 +1,1159 @@
+{
+  "plants": [
+    {
+      "name": "Alder",
+      "species": "Alnus",
+      "description": "Alder is the common name of a genus of flowering plants belonging to the birch family Betulaceae. The genus comprises about 30 species of monoecious trees and shrubs, a few reaching a large size, distributed throughout the north temperate zone with a few species extending into Central America and southern Asia."
+    },
+    {
+      "name": "Black alder",
+      "species": "Alnus glutinosa, Ilex verticillata",
+      "description": "Black alder is a deciduous tree native to most of Europe and western Asia. It grows in wetlands, along streams and rivers, and in other moist areas. It is often found alongside water bodies and in wet forests."
+    },
+    {
+      "name": "Common alder",
+      "species": "Alnus glutinosa",
+      "description": "Common alder is a medium-sized deciduous tree native to Europe, western Asia, and northern Africa. It is often found in wetlands, near rivers, streams, and lakeshores."
+    },
+    {
+      "name": "False alder",
+      "species": "Ilex verticillata",
+      "description": "False alder is a species of holly native to eastern North America. It is a deciduous shrub or small tree that typically grows in wetland habitats, such as swamps, bogs, and along stream banks."
+    },
+    {
+      "name": "Gray alder",
+      "species": "Alnus incana",
+      "description": "Gray alder, also known as speckled alder, is a species of tree native to Europe, western Asia, and North America. It is typically found in moist, well-drained soils in riparian areas, such as along rivers, streams, and wetlands."
+    },
+    {
+      "name": "Speckled alder",
+      "species": "Alnus incana",
+      "description": "Speckled alder, also known as gray alder, is a species of tree native to Europe, western Asia, and North America. It is typically found in moist, well-drained soils in riparian areas, such as along rivers, streams, and wetlands."
+    },
+    {
+      "name": "Striped alder",
+      "species": "Ilex verticillata",
+      "description": "Striped alder is a species of holly native to eastern North America. It is a deciduous shrub or small tree that typically grows in wetland habitats, such as swamps, bogs, and along stream banks."
+    },
+    {
+      "name": "White alder",
+      "species": "Alnus incana, Ilex verticillata",
+      "description": "White alder, also known as gray alder, is a species of tree native to Europe, western Asia, and North America. It is typically found in moist, well-drained soils in riparian areas, such as along rivers, streams, and wetlands."
+    },
+    {
+      "name": "Almond",
+      "species": "Prunus amygdalus",
+      "description": "The almond tree is a small deciduous tree native to the Middle East and South Asia. It is cultivated for its edible seeds, known as almonds, which have been consumed by humans for thousands of years."
+    },
+    {
+      "name": "Tall ambrosia",
+      "species": "Ambrosia trifida",
+      "description": "Tall ambrosia, also known as giant ragweed, is a species of flowering plant native to North America. It is an annual herbaceous plant that typically grows in disturbed habitats, such as agricultural fields, roadsides, and waste areas."
+    },
+    {
+      "name": "Amy root",
+      "species": "Apocynum cannabinum",
+      "description": "Amy root, also known as Indian hemp, is a species of flowering plant native to North America. It is a perennial herbaceous plant that typically grows in moist, sandy soils in open woodlands, prairies, and along stream banks."
+    },
+    {
+      "name": "Apple",
+      "species": "Malus domestica",
+      "description": "The apple tree is a deciduous tree native to Central Asia. It is cultivated worldwide for its edible fruits, which are consumed fresh, cooked, or processed into various products such as juice, cider, and vinegar."
+    },
+    {
+      "name": "apple",
+      "species": "Maclura pomifera",
+      "description": "The apple tree, also known as Osage orange or horse apple, is a small deciduous tree native to North America. It is cultivated for its distinctive green fruit, which is inedible for humans but attractive to wildlife."
+    },
+    {
+      "name": "Apple of Sodom",
+      "species": "Solanum carolinense",
+      "description": "Apple of Sodom is a species of flowering plant native to North America. It is a perennial herbaceous plant that typically grows in disturbed habitats, such as fields, roadsides, and waste areas."
+    },
+    {
+      "name": "Apricot",
+      "species": "Prunus armeniaca",
+      "description": "The apricot tree is a small deciduous tree native to Central Asia. It is cultivated for its edible fruits, which are consumed fresh or dried, and used in various culinary dishes and products."
+    },
+    {
+      "name": "Arfaj",
+      "species": "Rhanterium epapposum",
+      "description": "Arfaj, also known as desert thistle, is a species of flowering plant native to North Africa and the Middle East. It is a perennial herbaceous plant that typically grows in arid and semi-arid habitats, such as deserts, steppes, and rocky slopes."
+    },
+    {
+      "name": "Arizona sycamore",
+      "species": "Platanus wrighitii",
+      "description": "Arizona sycamore is a species of deciduous tree native to southwestern North America. It is typically found in riparian habitats, such as along rivers, streams, and canyons, where it provides important habitat and food sources for wildlife."
+    },
+    {
+      "name": "Arrowwood",
+      "species": "Cornus florida",
+      "description": "Arrowwood, also known as flowering dogwood, is a species of deciduous tree native to eastern North America. It is typically found in forests, woodlands, and along forest edges, where it provides important habitat and food sources for wildlife."
+    },
+    {
+      "name": "Indian arrowwood",
+      "species": "Cornus florida",
+      "description": "Indian arrowwood, also known as flowering dogwood, is a species of deciduous tree native to eastern North America. It is typically found in forests, woodlands, and along forest edges, where it provides important habitat and food sources for wildlife."
+    },
+    {
+      "name": "Ash",
+      "species": "Fraxinus spp.",
+      "description": "Ash is the common name for the genus Fraxinus of flowering plants in the olive and lilac family, Oleaceae. It comprises about 65 species of trees and shrubs, mostly native to temperate regions of the Northern Hemisphere."
+    },
+    {
+      "name": "Black ash",
+      "species": "Acer negundo, Fraxinus nigra",
+      "description": "Black ash, also known as swamp ash, is a species of deciduous tree native to eastern North America. It is typically found in wetland habitats, such as swamps, marshes, and along stream banks."
+    },
+    {
+      "name": "Blue ash",
+      "species": "Fraxinus pennsylvanica",
+      "description": "Blue ash is a species of deciduous tree native to eastern and central North America. It is typically found in upland forests, woodlands, and savannas, where it provides important habitat and food sources for wildlife."
+    },
+    {
+      "name": "Cane ash",
+      "species": "Fraxinus americana",
+      "description": "Cane ash, also known as white ash, is a species of deciduous tree native to eastern and central North America. It is typically found in a variety of habitats, including forests, woodlands, and riparian areas."
+    },
+    {
+      "name": "Green ash",
+      "species": "Fraxinus pennsylvanica",
+      "description": "Green ash is a species of deciduous tree native to eastern and central North America. It is typically found in a variety of habitats, including forests, woodlands, and riparian areas."
+    },
+    {
+      "name": "Maple ash",
+      "species": "Acer negundo",
+      "description": "Maple ash, also known as box elder or Manitoba maple, is a species of deciduous tree native to North America. It is typically found in a variety of habitats, including forests, woodlands, and urban areas."
+    },
+    {
+      "name": "Red ash",
+      "species": "Fraxinus pennsylvanica",
+      "description": "Red ash is a species of deciduous tree native to eastern and central North America. It is typically found in a variety of habitats, including forests, woodlands, and riparian areas."
+    },
+    {
+      "name": "River ash",
+      "species": "Fraxinus pennsylvanica",
+      "description": "River ash is a species of deciduous tree native to eastern and central North America. It is typically found along rivers and streams, where it provides important habitat and food sources for wildlife."
+    },
+    {
+      "name": "Swamp ash",
+      "species": "Fraxinus pennsylvanica",
+      "description": "Swamp ash, also known as black ash, is a species of deciduous tree native to eastern and central North America. It is typically found in wetland habitats, such as swamps, marshes, and along stream banks."
+    },
+    {
+      "name": "White ash",
+      "species": "Fraxinus americana",
+      "description": "White ash, also known as American ash, is a species of deciduous tree native to eastern and central North America. It is typically found in a variety of habitats, including forests, woodlands, and riparian areas."
+    },
+    {
+      "name": "Water ash",
+      "species": "Acer negundo, Fraxinus pennsylvanica",
+      "description": "Water ash, also known as box elder or swamp ash, is a species of deciduous tree native to eastern and central North America. It is typically found in wetland habitats, such as swamps, marshes, and along stream banks."
+    },
+    {
+      "name": "Azolla",
+      "species": "Azolla",
+      "description": "Azolla is a genus of aquatic ferns in the family Salviniaceae. These small floating plants are often found in ponds, lakes, and slow-moving streams. They have a symbiotic relationship with nitrogen-fixing cyanobacteria and are used in agriculture as a natural fertilizer."
+    },
+    {
+      "name": "Carolina azolla",
+      "species": "Azolla caroliniana",
+      "description": "Carolina azolla is a species of aquatic fern native to North America. It is commonly found in ponds, marshes, and other wetland habitats. Carolina azolla forms dense mats on the water's surface and provides habitat and food for various aquatic organisms."
+    },
+    {
+      "name": "Bamboo",
+      "species": "Bambuseae",
+      "description": "Bamboo is a group of woody perennial grasses in the family Poaceae. These fast-growing plants are native to various regions of the world, including Asia, Africa, and the Americas. Bamboo is known for its versatile uses, including construction, furniture, papermaking, and as a food source for pandas and humans."
+    },
+    {
+      "name": "Banana",
+      "species": "mainly Musa × paradisica, but also other Musa species and hybrids",
+      "description": "Banana is a genus of flowering plants in the family Musaceae. The most commonly cultivated banana species is Musa × paradisica, known as the dessert banana or Cavendish banana. Bananas are tropical fruits that are rich in potassium, vitamins, and fiber, and are consumed worldwide in various culinary dishes."
+    },
+    {
+      "name": "Baobab",
+      "species": "Adansonia",
+      "description": "Baobab is a genus of deciduous trees native to Africa, Madagascar, and Australia. These iconic trees are known for their distinctive swollen trunk and branches, which store water during the dry season. Baobabs play important ecological roles in their native habitats and are culturally significant to many indigenous peoples."
+    },
+    {
+      "name": "Bay",
+      "species": "Laurus spp. or Umbellularia spp.",
+      "description": "Bay is a common name for several unrelated plant species in different genera. Laurus spp., including the true bay laurel (Laurus nobilis), are native to the Mediterranean region and are used as culinary herbs for their aromatic leaves. Umbellularia spp., known as California bay or Oregon myrtle, are native to western North America and have similar aromatic leaves used in cooking and herbal medicine."
+    },
+    {
+      "name": "Bay laurel",
+      "species": "Laurus nobilis (culinary)",
+      "description": "Bay laurel, scientifically known as Laurus nobilis, is a species of evergreen tree native to the Mediterranean region. It is cultivated for its aromatic leaves, which are used as a culinary herb in various cuisines around the world. Bay laurel leaves have a distinctive flavor and are commonly used to flavor soups, stews, and sauces."
+    },
+    {
+      "name": "California bay",
+      "species": "Umbellularia californica",
+      "description": "California bay, also known as California laurel or Oregon myrtle, is a species of evergreen tree native to western North America. It is valued for its aromatic leaves, which are used in cooking, herbal medicine, and as a natural insect repellent. California bay trees are important components of their native ecosystems."
+    },
+    {
+      "name": "Bean",
+      "species": "Fabaceae, specifically Phaseolus spp.",
+      "description": "Bean is a common name for various plants in the family Fabaceae, particularly species in the genus Phaseolus. Beans are cultivated for their edible seeds, which are rich in protein, fiber, vitamins, and minerals. They are an important food crop worldwide and are consumed in various forms, including fresh, dried, and canned."
+    },
+    {
+      "name": "Bearberry",
+      "species": "Ilex decidua",
+      "description": "Bearberry, also known as deciduous holly, is a species of shrub native to eastern North America. It is typically found in dry, sandy soils in open woodlands, prairies, and along roadsides. Bearberry produces small red berries that are eaten by various wildlife species, and its leaves have been used in herbal medicine by indigenous peoples."
+    },
+    {
+      "name": "Bear corn",
+      "species": "Veratrum viride",
+      "description": "Bear corn is a species of flowering plant native to eastern North America. It is a perennial herbaceous plant that typically grows in shady forested areas, often in moist soils. Bear corn produces tall flower spikes with greenish-white flowers and has toxic properties if ingested by humans or animals."
+    },
+    {
+      "name": "Beech",
+      "species": "Fagus",
+      "description": "Beech is a genus of deciduous trees native to temperate regions of the Northern Hemisphere. These trees are valued for their hard wood, which is used in furniture making, flooring, and other woodworking applications. Beech trees also provide important habitat for various wildlife species and contribute to forest ecosystems."
+    },
+    {
+      "name": "Blue bindweed",
+      "species": "Solanum dulcamara",
+      "description": "Blue bindweed, also known as bittersweet nightshade, is a species of flowering plant native to Europe and Asia. It is a perennial vine that typically grows in moist, shady habitats, such as along stream banks, forest edges, and disturbed areas. Blue bindweed produces purple flowers and red berries that are toxic if ingested."
+    },
+    {
+      "name": "Bird's nest",
+      "species": "Daucus carota",
+      "description": "Bird's nest, also known as wild carrot, is a species of flowering plant native to Europe and Asia. It is a biennial herbaceous plant that typically grows in grasslands, meadows, and along roadsides. Bird's nest produces clusters"
+    },
+    {
+      "name": "Bird's nest plant",
+      "species": "Daucus carota",
+      "description": "Bird's nest plant, also known as wild carrot, is a species of flowering plant native to Europe and Asia. It is a biennial herbaceous plant that typically grows in grasslands, meadows, and along roadsides. Bird's nest plant produces clusters of small white flowers arranged in a dense, umbrella-shaped inflorescence. The plant's root has a carrot-like appearance and smell and has been used in herbal medicine and as a culinary ingredient."
+    },
+    {
+      "name": "Birch",
+      "species": "Betula spp.",
+      "description": "Birch is a genus of deciduous trees and shrubs native to temperate regions of the Northern Hemisphere. These trees are valued for their distinctive bark, which often peels in thin, papery layers. Birch trees are important components of forest ecosystems and provide habitat for various wildlife species. They are also valued for their wood, which is used in furniture making, flooring, and other woodworking applications."
+    },
+    {
+      "name": "Black birch",
+      "species": "Betula lenta, Betula nigra",
+      "description": "Black birch is a species of deciduous tree native to eastern North America. It is typically found in moist forests, woodlands, and along stream banks. Black birch is valued for its aromatic bark, which has a wintergreen scent and has been used in herbal medicine and as a flavoring agent."
+    },
+    {
+      "name": "Bolean birch",
+      "species": "Betula papyrifera",
+      "description": "Bolean birch, also known as paper birch, is a species of deciduous tree native to North America. It is typically found in a variety of habitats, including forests, woodlands, and wetlands. Bolean birch is valued for its distinctive white bark, which peels in thin, papery layers, and its wood, which is used in various applications, including furniture making, construction, and crafts."
+    },
+    {
+      "name": "Canoe birch",
+      "species": "Betula papyrifera",
+      "description": "Canoe birch, also known as paper birch, is a species of deciduous tree native to North America. It is typically found in a variety of habitats, including forests, woodlands, and wetlands. Canoe birch is valued for its distinctive white bark, which peels in thin, papery layers, and its wood, which is lightweight and used in various applications, including canoe building."
+    },
+    {
+      "name": "Cherry birch",
+      "species": "Betula lenta",
+      "description": "Cherry birch is a species of deciduous tree native to eastern North America. It is typically found in moist forests and woodlands, often in association with other hardwood species. Cherry birch is valued for its dark brown bark, which resembles the bark of cherry trees, and its aromatic wood, which is used in furniture making, cabinetry, and other woodworking applications."
+    },
+    {
+      "name": "European weeping birch",
+      "species": "Betula pendula",
+      "description": "European weeping birch, also known as silver birch, is a species of deciduous tree native to Europe and parts of Asia. It is characterized by its graceful, pendulous branches and distinctive white bark, which peels in thin, papery layers. European weeping birch is commonly planted as an ornamental tree in parks, gardens, and landscapes."
+    },
+    {
+      "name": "European white birch",
+      "species": "Betula pendula",
+      "description": "European white birch, also known as silver birch, is a species of deciduous tree native to Europe and parts of Asia. It is characterized by its distinctive white bark, which peels in thin, papery layers, and its triangular-shaped leaves. European white birch is commonly planted as an ornamental tree in parks, gardens, and landscapes."
+    },
+    {
+      "name": "Gray birch",
+      "species": "Betula alleghaniensis",
+      "description": "Gray birch is a species of deciduous tree native to eastern North America. It is typically found in dry, sandy soils in open woodlands, forests, and along roadsides. Gray birch is characterized by its smooth, grayish-white bark and its slender, pendulous branches."
+    },
+    {
+      "name": "Mahogany birch",
+      "species": "Betula lenta",
+      "description": "Mahogany birch is a species of deciduous tree native to eastern North America. It is typically found in moist forests and woodlands, often in association with other hardwood species. Mahogany birch is valued for its dark brown bark, which resembles the color of mahogany wood, and its aromatic wood, which is used in furniture making and cabinetry."
+    },
+    {
+      "name": "Paper birch",
+      "species": "Betula papyrifera",
+      "description": "Paper birch, also known as canoe birch, is a species of deciduous tree native to North America. It is characterized by its distinctive white bark, which peels in thin, papery layers, and its triangular-shaped leaves. Paper birch is commonly planted as an ornamental tree and valued for its attractive bark and fall foliage."
+    },
+    {
+      "name": "Red birch",
+      "species": "Betula nigra",
+      "description": "Red birch, also known as river birch, is a species of deciduous tree native to eastern North America. It is typically found along riverbanks, streams, and other water bodies, where it provides important habitat for various wildlife species. Red birch is valued for its distinctive exfoliating bark, which ranges in color from reddish-brown to black."
+    },
+    {
+      "name": "River birch",
+      "species": "Betula nigra, Betula lenta",
+      "description": "River birch is a species of deciduous tree native to eastern North America. It is typically found along riverbanks, streams, and other water bodies, where it provides important habitat for various wildlife species. River birch is valued for its distinctive exfoliating bark, which ranges in color from reddish-brown to black, and its slender, pendulous branches."
+    },
+    {
+      "name": "Silver birch",
+      "species": "Betula papyrifera",
+      "description": "Silver birch, also known as European weeping birch, is a species of deciduous tree native to Europe and parts of Asia. It is characterized by its graceful, pendulous branches and distinctive white bark, which peels in thin, papery layers. Silver birch is commonly planted as an ornamental tree in parks, gardens, and landscapes."
+    },
+    {
+      "name": "Spice birch",
+      "species": "Betula lenta",
+      "description": "Spice birch is a species of deciduous tree native to eastern North America. It is typically found in moist forests and woodlands, often in association with other hardwood species. Spice birch is valued for its aromatic bark, which has a spicy"
+    },
+    {
+      "name": "Sweet birch",
+      "species": "Betula lenta",
+      "description": "Sweet birch, also known as cherry birch or black birch, is a species of deciduous tree native to eastern North America. It is typically found in moist forests and woodlands, often in association with other hardwood species. Sweet birch is valued for its aromatic bark, which has a wintergreen scent and has been used in herbal medicine and as a flavoring agent."
+    },
+    {
+      "name": "Water birch",
+      "species": "Betula nigra",
+      "description": "Water birch is a species of deciduous tree native to eastern North America. It is typically found in wetland habitats, such as swamps, stream banks, and marshes. Water birch is valued for its tolerance of wet soils and its ability to stabilize stream banks and prevent erosion."
+    },
+    {
+      "name": "Weeping birch",
+      "species": "Betula pendula",
+      "description": "Weeping birch, also known as silver birch or European white birch, is a species of deciduous tree native to Europe and parts of Asia. It is characterized by its graceful, pendulous branches and distinctive white bark, which peels in thin, papery layers. Weeping birch is commonly planted as an ornamental tree in parks, gardens, and landscapes."
+    },
+    {
+      "name": "White birch",
+      "species": "Betula papyrifera, Betula pendula",
+      "description": "White birch, also known as paper birch or silver birch, is a species of deciduous tree native to North America, Europe, and parts of Asia. It is characterized by its distinctive white bark, which peels in thin, papery layers, and its triangular-shaped leaves. White birch is commonly planted as an ornamental tree and valued for its attractive bark and fall foliage."
+    },
+    {
+      "name": "Yellow birch",
+      "species": "Betula alleghaniensis",
+      "description": "Yellow birch is a species of deciduous tree native to eastern North America. It is typically found in moist forests and woodlands, often in association with other hardwood species. Yellow birch is valued for its golden-yellow bark, which exfoliates in thin, papery strips, and its high-quality wood, which is used in furniture making and cabinetry."
+    },
+    {
+      "name": "Bittercress",
+      "species": "Barbarea vulgaris, Cardamine bulbosa, Cardamine hirsuta",
+      "description": "Bittercress is a common name for several species of flowering plants in the mustard family (Brassicaceae), including Barbarea vulgaris, Cardamine bulbosa, and Cardamine hirsuta. These annual or perennial herbs are found in various habitats, including meadows, woodlands, and disturbed areas. Bittercress produces small white or pink flowers and has been used as a culinary herb and in herbal medicine."
+    },
+    {
+      "name": "Hairy bittercress",
+      "species": "Cardamine hirsuta",
+      "description": "Hairy bittercress is a species of flowering plant in the mustard family (Brassicaceae) native to Europe and Asia. It is an annual or biennial herb that typically grows in moist, shady habitats, such as woodlands, gardens, and disturbed areas. Hairy bittercress produces small white flowers and has been used as a culinary herb and in herbal medicine."
+    },
+    {
+      "name": "Bittersweet",
+      "species": "Solanum dulcamara",
+      "description": "Bittersweet, also known as woody nightshade, is a species of flowering plant native to Europe and Asia. It is a perennial vine that typically grows in hedgerows, woodlands, and disturbed habitats. Bittersweet produces purple flowers and red berries that are toxic if ingested. The plant has a long history of use in traditional medicine and folklore."
+    },
+    {
+      "name": "Trailing bittersweet",
+      "species": "Solanum dulcamara",
+      "description": "Trailing bittersweet, also known as woody nightshade, is a species of flowering plant native to Europe and Asia. It is a perennial vine that typically grows in hedgerows, woodlands, and disturbed habitats. Trailing bittersweet produces purple flowers and red berries that are toxic if ingested. The plant has a long history of use in traditional medicine and folklore."
+    },
+    {
+      "name": "Bitterweed",
+      "species": "Any plant in the Ambrosia genus, specially Ambrosia artemisiifolia, Artemisia trifida, Helenium amarum",
+      "description": "Bitterweed is a common name for various plants in the genus Ambrosia, particularly Ambrosia artemisiifolia, Artemisia trifida, and Helenium amarum. These annual or perennial herbs are native to North and Central America and are notorious for causing allergic reactions in humans, particularly hay fever. Bitterweed species are often considered weeds and are found in a variety of habitats, including fields, roadsides, and waste areas."
+    },
+    {
+      "name": "Blackberry",
+      "species": "Rubus spp., Rubus pensilvanicus, Rubus occidentalis",
+      "description": "Blackberry is a common name for various species of flowering plants in the genus Rubus, including Rubus pensilvanicus and Rubus occidentalis. These perennial shrubs are native to North America and are known for their delicious fruits, which are consumed fresh or used in pies, jams, and desserts. Blackberries are also valued for their ornamental qualities and are cultivated in gardens and landscapes."
+    },
+    {
+      "name": "Hispid swamp blackberry",
+      "species": "Rubus hispidus",
+      "description": "Hispid swamp blackberry is a species of flowering plant in the genus Rubus native to eastern North America. It is a perennial shrub that typically grows in wetland habitats, such as swamps, bogs, and marshes. Hispid swamp blackberry produces white flowers and edible blackberries that are consumed by various wildlife species."
+    },
+    {
+      "name": "Pennsylvania blackberry",
+      "species": "Rubus pensilvanicus",
+      "description": "Pennsylvania blackberry is a species of flowering plant in the genus Rubus native to eastern North America. It is a perennial shrub that typically grows in a variety of habitats, including woodlands, fields, and disturbed areas. Pennsylvania blackberry produces white flowers and edible blackberries that are consumed by various wildlife species."
+    },
+    {
+      "name": "Running swamp blackberry",
+      "species": "Rubus hispidus",
+      "description": "Running swamp blackberry is a species of flowering plant in the genus Rubus native to eastern North America. It is a perennial shrub that typically grows in wetland habitats, such as swamps, bogs, and marshes. Running swamp blackberry produces white flowers and edible blackberries that are consumed by various wildlife species."
+    },
+    {
+      "name": "Black cap",
+      "species": "Rubus occidentalis",
+      "description": "Black cap, also known as black raspberry, is a species of flowering plant in the genus Rubus native to eastern North America. It is a perennial shrub that typically grows in a variety of habitats, including woodlands, fields, and disturbed areas. Black cap produces white flowers and edible blackberries that are consumed fresh or used in jams, pies, and desserts."
+    },
+    {
+      "name": "Black-eyed Susan",
+      "species": "Rudbeckia hirta, Rudbeckia fulgida",
+      "description": "Black-eyed Susan is a common name for several species of flowering plants in the genus Rudbeckia, including Rudbeckia hirta and Rudbeckia fulgida. These perennial herbs are native to North America and are known for their bright yellow or orange flowers with dark centers. Black-eyed Susans are popular garden plants and attract pollinators like bees and butterflies."
+    },
+    {
+      "name": "Blackhaw",
+      "species": "Viburnum prunifolium",
+      "description": "Blackhaw is a species of deciduous shrub or small tree native to eastern North America. It is typically found in woodlands, thickets, and along stream banks. Blackhaw is valued for its attractive foliage, clusters of white flowers, and dark blue berries, which are eaten by birds and wildlife. The plant has a long history of use in herbal medicine."
+    },
+    {
+      "name": "Blackiehead",
+      "species": "Rudbeckia hirta",
+      "description": "Blackiehead, also known as black-eyed Susan, is a species of flowering plant in the genus Rudbeckia native to North America. It is a perennial herb that typically grows in meadows, prairies, and along roadsides. Blackiehead produces bright yellow or orange flowers with dark centers and is commonly cultivated in gardens and landscapes."
+    },
+    {
+      "name": "Black-weed",
+      "species": "Ambrosia artemisiifolia",
+      "description": "Black-weed, also known as common ragweed, is a species of flowering plant in the genus Ambrosia native to North America. It is an annual herb that typically grows in disturbed areas, fields, and along roadsides. Black-weed produces inconspicuous green flowers and is a notorious allergen, causing hay fever in susceptible individuals."
+    },
+    {
+      "name": "Blueberry",
+      "species": "Vaccinium (Cyanococcus) spp.",
+      "description": "Blueberry is a common name for several species of flowering plants in the genus Vaccinium, including Vaccinium corymbosum, Vaccinium angustifolium, and Vaccinium myrtillus. These perennial shrubs are native to North America, Europe, and Asia and are known for their delicious and nutritious berries, which are consumed fresh, dried, or used in various culinary dishes."
+    },
+    {
+      "name": "Blue-of-the-heavens",
+      "species": "Allium caeruleum",
+      "description": "Blue-of-the-heavens, also known as blue globe onion, is a species of flowering plant in the genus Allium native to Central Asia. It is a bulbous perennial herb that typically grows in mountainous regions and alpine meadows. Blue-of-the-heavens produces spherical clusters of bright blue flowers and is cultivated as an ornamental plant in gardens and landscapes."
+    },
+    {
+      "name": "Bow-wood",
+      "species": "Maclura pomifera",
+      "description": "Bow-wood, also known as Osage orange or hedge apple, is a species of flowering plant native to North America. It is a deciduous tree that typically grows in open woodlands, prairies, and along stream banks. Bow-wood is valued for its durable wood, which is used in woodworking, particularly for making bows, tool handles, and fence posts."
+    },
+    {
+      "name": "Box",
+      "species": "Buxus",
+      "description": "Box is a common name for various species of evergreen shrubs and small trees in the genus Buxus. These plants are native to Europe, Asia, Africa, and Central America and are valued for their dense foliage, which can be pruned and shaped into various forms. Box plants are commonly used in formal gardens, hedges, and topiary."
+    },
+    {
+      "name": "False box",
+      "species": "Cornus florida",
+      "description": "False box, also known as flowering dogwood, is a species of deciduous tree native to eastern North America. It is typically found in forests, woodlands, and along woodland edges. False box is valued for its showy white or pink flowers, red berries, and colorful fall foliage. The plant is commonly cultivated as an ornamental tree in gardens and landscapes."
+    },
+    {
+      "name": "Boxelder",
+      "species": "Acer negundo",
+      "description": "Boxelder, also known as ash-leaved maple or Manitoba maple, is a species of deciduous tree native to North America. It is typically found in a variety of habitats, including floodplains, riverbanks, and disturbed areas. Boxelder is valued for its fast growth, tolerance of poor soils, and attractive foliage, but it is often considered a weed tree due to its tendency to colonize disturbed sites."
+    },
+    {
+      "name": "Boxwood",
+      "species": "Buxus, Cornus florida",
+      "description": "Boxwood, also known as box, is a common name for several species of evergreen shrubs and small trees in the genus Buxus and the species Cornus florida. These plants are native to various regions, including Europe, Asia, Africa, and North America. Boxwood is valued for its dense, glossy foliage, which can be pruned and shaped into various forms, making it popular for hedging, topiary, and formal gardens."
+    },
+    {
+      "name": "False boxwood",
+      "species": "Cornus florida",
+      "description": "False boxwood, also known as flowering dogwood, is a species of deciduous tree native to eastern North America. It is typically found in forests, woodlands, and along woodland edges. False boxwood is valued for its showy white or pink flowers, red berries, and colorful fall foliage. The plant is commonly cultivated as an ornamental tree in gardens and landscapes."
+    },
+    {
+      "name": "Sand brier",
+      "species": "Solanum carolinense",
+      "description": "Sand brier is a species of flowering plant in the nightshade family, Solanaceae, native to North America. It is a perennial herb that typically grows in sandy or disturbed habitats, such as fields, roadsides, and waste areas. Sand brier produces clusters of small, star-shaped yellow flowers and spiny fruits. Despite its common name, it is not a true brier."
+    },
+    {
+      "name": "Brittlebush",
+      "species": "Encelia farinosa",
+      "description": "Brittlebush is a species of flowering plant in the sunflower family, Asteraceae, native to the deserts of the southwestern United States and northwestern Mexico. It is a perennial shrub that typically grows in sandy or rocky soils in desert washes, slopes, and foothills. Brittlebush is known for its bright yellow flowers and silvery-gray foliage and is adapted to arid desert conditions."
+    },
+    {
+      "name": "Broadleaf",
+      "species": "Plantago major",
+      "description": "Broadleaf, also known as common plantain or greater plantain, is a species of flowering plant in the plantain family, Plantaginaceae, native to Europe, Asia, and North America. It is a perennial herb that typically grows in lawns, meadows, and disturbed areas. Broadleaf produces spikes of tiny greenish-white flowers and is known for its broad, ribbed leaves, which have medicinal properties."
+    },
+    {
+      "name": "Brown Betty",
+      "species": "Rudbeckia hirta",
+      "description": "Brown Betty is a cultivar of Rudbeckia hirta, a species of flowering plant in the sunflower family, Asteraceae, native to North America. It is an annual or biennial herb that typically grows in fields, meadows, and along roadsides. Brown Betty produces yellow or orange flowers with dark brown centers and is commonly grown as an ornamental plant in gardens and landscapes."
+    },
+    {
+      "name": "Brown-eyed Susan",
+      "species": "Rudbeckia hirta, Rudbeckia triloba",
+      "description": "Brown-eyed Susan is a common name for several species of flowering plants in the genus"
+    },
+    {
+      "name": "Cabbage",
+      "species": "Brassica oleracea",
+      "description": "Cabbage is a leafy green or purple biennial plant grown as an annual vegetable crop for its dense-leaved heads. It belongs to the Brassica genus, which also includes broccoli, cauliflower, and Brussels sprouts. Cabbage is widely cultivated for its nutritious leaves and is consumed raw, cooked, or fermented into sauerkraut."
+    },
+    {
+      "name": "Clumpfoot cabbage",
+      "species": "Symplocarpus foetidus",
+      "description": "Clumpfoot cabbage, also known as skunk cabbage, is a species of flowering plant in the Araceae family, native to eastern North America. It is a perennial herb that grows in wetlands, marshes, and swamps. Clumpfoot cabbage is characterized by its large, hooded flowers and foul-smelling foliage, which attracts pollinating insects."
+    },
+    {
+      "name": "Meadow cabbage",
+      "species": "Symplocarpus foetidus",
+      "description": "Meadow cabbage, also known as skunk cabbage, is a species of flowering plant in the Araceae family, native to eastern North America. It is a perennial herb that grows in wetlands, marshes, and swamps. Meadow cabbage is characterized by its large, hooded flowers and foul-smelling foliage, which attracts pollinating insects."
+    },
+    {
+      "name": "Skunk cabbage",
+      "species": "Symplocarpus foetidus, Lysichiton spp.",
+      "description": "Skunk cabbage is a common name for several species of flowering plants in the Araceae family, including Symplocarpus foetidus and species of the Lysichiton genus. These plants are native to wetlands and swampy areas in North America and Eurasia. Skunk cabbage is known for its large, hooded flowers and strong odor, which attracts pollinating insects."
+    },
+    {
+      "name": "Swamp cabbage",
+      "species": "Symplocarpus foetidus",
+      "description": "Swamp cabbage, also known as skunk cabbage, is a species of flowering plant in the Araceae family, native to eastern North America. It is a perennial herb that grows in wetlands, marshes, and swamps. Swamp cabbage is characterized by its large, hooded flowers and foul-smelling foliage, which attracts pollinating insects."
+    },
+    {
+      "name": "California bay",
+      "species": "Umbellularia californica",
+      "description": "California bay, also known as California laurel or Oregon myrtle, is a species of evergreen tree native to western North America. It belongs to the Lauraceae family and typically grows in coastal and foothill forests. California bay is valued for its aromatic leaves, which are used as a culinary herb in cooking and for their medicinal properties."
+    },
+    {
+      "name": "California buckeye",
+      "species": "Aesculus californica",
+      "description": "California buckeye is a species of deciduous tree in the soapberry family, Sapindaceae, native to California and southwestern Oregon. It typically grows in dry, rocky slopes and canyons. California buckeye is known for its showy clusters of white to pale pink flowers and large, shiny brown seeds, which are toxic when consumed raw but were historically used by Native Americans after proper preparation."
+    },
+    {
+      "name": "California sycamore",
+      "species": "Platanus racemosa",
+      "description": "California sycamore is a species of deciduous tree native to California and Baja California. It belongs to the Platanaceae family and typically grows along streams, rivers, and in canyons. California sycamore is known for its distinctive mottled bark, large lobed leaves, and spherical seed balls."
+    },
+    {
+      "name": "California walnut",
+      "species": "Juglans californica",
+      "description": "California walnut is a species of deciduous tree in the Juglandaceae family, native to California and Baja California. It typically grows in canyons, foothills, and valleys. California walnut is known for its edible nuts, which have a rich, buttery flavor and are often used in baking and cooking."
+    },
+    {
+      "name": "Canada root",
+      "species": "Asclepias tuberosa",
+      "description": "Canada root, also known as butterfly weed, is a species of flowering plant in the milkweed family, Apocynaceae, native to North America. It is a perennial herb that typically grows in prairies, meadows, and along roadsides. Canada root is known for its bright orange or yellow flowers and is a valuable food source for monarch butterflies and other pollinators."
+    },
+    {
+      "name": "Cancer jalap",
+      "species": "Phytolacca americana",
+      "description": "Cancer jalap, also known as pokeweed, is a species of flowering plant in the Phytolaccaceae family, native to North America. It is a perennial herb that typically grows in fields, waste areas, and along roadsides. Cancer jalap is known for its showy clusters of pink to purplish berries and toxic roots, leaves, and berries."
+    },
+    {
+      "name": "Carrot",
+      "species": "Daucus carota",
+      "description": "Carrot is a root vegetable in the Apiaceae family, cultivated for its edible taproot. It is native to Europe and southwestern Asia but is now grown worldwide as a popular vegetable crop. Carrots are rich in vitamins, minerals, and antioxidants and are consumed raw, cooked, or juiced."
+    },
+    {
+      "name": "Wild carrot",
+      "species": "Daucus carota",
+      "description": "Wild carrot, also known as Queen Anne's lace, is a biennial plant in the Apiaceae family native to Europe and Asia. It is naturalized in North America and other regions. Wild carrot produces flat-topped clusters of small white flowers and has a long taproot. It is closely related to the cultivated carrot but has smaller, tougher roots."
+    },
+    {
+      "name": "Carrot weed",
+      "species": "Ambrosia artemisiifolia",
+      "description": "Carrot weed, also known as common ragweed, is a species of flowering plant in the Asteraceae family, native to North America. It is an annual herb that typically grows in fields, roadsides, and disturbed areas. Carrot weed is known for its highly allergenic pollen, which can trigger hay fever and allergic rhinitis in sensitive individuals."
+    },
+    {
+      "name": "Cart track plant",
+      "species": "Plantago major",
+      "description": "Cart track plant, also known as broadleaf plantain or common plantain, is a species of flowering plant in the Plantaginaceae family, native to Europe and Asia. It is now naturalized in North America and other regions. Cart track plant is a perennial herb that typically grows in lawns, fields, and disturbed areas. It is known for its medicinal properties and is used in traditional herbal remedies."
+    },
+    {
+      "name": "Catalina ironwood",
+      "species": "Lyonothamnus floribundus ssp. floribundus",
+      "description": "Catalina ironwood is a species of flowering tree in the Rosaceae family, native to the Channel Islands of California. It is an evergreen tree that typically grows in coastal scrub and chaparral habitats. Catalina ironwood is known for its dense, dark green foliage and attractive bark, making it a popular ornamental tree in gardens and landscapes."
+    },
+    {
+      "name": "Cherry",
+      "species": "Prunus spp.",
+      "description": "Cherry is a fruit-bearing tree in the Prunus genus, which includes numerous species and cultivars. Cherries are native to temperate regions of the Northern Hemisphere and are cultivated for their delicious fruits, which come in various colors and flavors. Cherries are used fresh, dried, or processed into jams, jellies, pies, and other culinary delights."
+    },
+    {
+      "name": "Black cherry",
+      "species": "Prunus serotina",
+      "description": "Black cherry is a species of deciduous tree in the Prunus genus, native to eastern North America. It typically grows in forests and woodlands and is known for its dark, reddish-brown bark and edible fruit. Black cherry wood is valued for its strength and rich color and is used in cabinetry, furniture making, and woodworking."
+    },
+    {
+      "name": "Cabinet cherry",
+      "species": "Prunus serotina",
+      "description": "Cabinet cherry, also known as black cherry, is a species of deciduous tree in the Prunus genus, native to eastern North America. It typically grows in forests and woodlands and is known for its dark, reddish-brown bark and edible fruit. Cabinet cherry wood is valued for its strength and rich color and is used in cabinetry, furniture making, and woodworking."
+    },
+    {
+      "name": "Rum cherry",
+      "species": "Prunus serotina",
+      "description": "Rum cherry, also known as black cherry, is a species of deciduous tree in the Prunus genus, native to eastern North America. It typically grows in forests and woodlands and is known for its dark, reddish-brown bark and edible fruit. Rum cherry wood is valued for its strength and rich color and is used in cabinetry, furniture making, and woodworking."
+    },
+    {
+      "name": "Whiskey cherry",
+      "species": "Prunus serotina",
+      "description": "Whiskey cherry, also known as black cherry, is a species of deciduous tree in the Prunus genus, native to eastern North America. It typically grows in forests and woodlands and is known for its dark, reddish-brown bark and edible fruit. Whiskey cherry wood is valued for its strength and rich color and is used in cabinetry, furniture making, and woodworking."
+    },
+    {
+      "name": "Wild cherry",
+      "species": "Prunus avium, Prunus serotina",
+      "description": "Wild cherry, also known as sweet cherry or bird cherry, is a species of deciduous tree in the Prunus genus, native to Europe, western Asia, and parts of North Africa. It typically grows in woodlands and is known for its showy clusters of white to pink flowers and small, sweet-tasting fruits. Wild cherry wood is used in cabinetry, furniture making, and woodworking."
+    },
+    {
+      "name": "Wild black cherry",
+      "species": "Prunus serotina",
+      "description": "Wild black cherry, also known as black cherry, is a species of deciduous tree in the Prunus genus, native to eastern North America. It typically grows in forests and woodlands and is known for its dark, reddish-brown bark and edible fruit. Wild black cherry wood is valued for its strength and rich color and is used in cabinetry, furniture making, and woodworking."
+    },
+    {
+      "name": "Chestnut",
+      "species": "Castanea spp.",
+      "description": "Chestnut is a deciduous tree in the Fagaceae family, native to temperate regions of the Northern Hemisphere. It belongs to the Castanea genus, which includes several species of trees and shrubs. Chestnuts are valued for their edible nuts, which have a sweet flavor and are used in cooking and baking. The wood of chestnut trees is also prized for its durability and workability."
+    },
+    {
+      "name": "Chigger flower",
+      "species": "Asclepias tuberosa",
+      "description": "Chigger flower, also known as butterfly weed or Canada root, is a species of flowering plant in the Apocynaceae family, native to North America. It is a perennial herb that typically grows in prairies, meadows, and along roadsides. Chigger flower is known for its bright orange or yellow flowers and is a valuable food source for monarch butterflies and other pollinators."
+    },
+    {
+      "name": "Chrysanthemum",
+      "species": "Dendranthema grandiflora, Chrysanthemum morifolium",
+      "description": "Chrysanthemum is a genus of flowering plants in the Asteraceae family, native to Asia and northeastern Europe. It includes several species and many cultivated varieties, which are popular ornamental plants grown for their showy flowers. Chrysanthemums come in various colors, shapes, and sizes and are used in gardens, floral arrangements, and traditional medicine."
+    },
+    {
+      "name": "(True) cinnamon",
+      "species": "Cinnamomum verum",
+      "description": "True cinnamon, also known as Ceylon cinnamon, is a species of evergreen tree in the Lauraceae family, native to Sri Lanka and southern India. It is cultivated for its inner bark, which is dried and used as a spice. True cinnamon has a sweet and fragrant aroma and is used in cooking, baking, and traditional medicine."
+    },
+    {
+      "name": "Clove",
+      "species": "Syzygium aromaticum",
+      "description": "Clove is a species of flowering tree in"
+    },
+    {
+      "name": "Clover",
+      "species": "Trifolium spp.",
+      "description": "Clover is a genus of flowering plants in the Fabaceae family, native to temperate regions of the Northern Hemisphere. It includes hundreds of species, commonly known as clovers or trefoils, which are valued as forage crops, green manure, and soil improvers. Clovers are also important for their ability to fix nitrogen in the soil, making them valuable components of sustainable agriculture."
+    },
+    {
+      "name": "Coakum",
+      "species": "Phytolacca americana",
+      "description": "Coakum, also known as American pokeweed, is a species of flowering plant in the Phytolaccaceae family, native to eastern North America. It is a large perennial herb that typically grows in disturbed habitats, fields, and woodland edges. Coakum is known for its poisonous berries and toxic roots but has also been used in traditional medicine for various purposes."
+    },
+    {
+      "name": "Coconut",
+      "species": "Cocos nucifera",
+      "description": "Coconut is a species of palm tree in the Arecaceae family, native to tropical regions of the world. It is cultivated for its versatile fruit, known as the coconut, which provides food, water, oil, and fiber. Coconut palms are also valued for their ornamental appearance and are commonly planted in coastal areas and tropical gardens."
+    },
+    {
+      "name": "Coffee plant",
+      "species": "Coffea spp.",
+      "description": "Coffee plant is a genus of flowering plants in the Rubiaceae family, native to tropical Africa and Madagascar. It includes several species of evergreen shrubs and small trees, commonly known as coffee trees. Coffee plants produce berries, called coffee cherries, which contain seeds known as coffee beans. These beans are roasted and ground to produce the popular beverage known as coffee."
+    },
+    {
+      "name": "Colic weed",
+      "species": "Corydalis flavula",
+      "description": "Colic weed, also known as pale corydalis or yellow fumewort, is a species of flowering plant in the Papaveraceae family, native to North America. It is an annual or biennial herb that typically grows in woodlands, meadows, and disturbed areas. Colic weed has been used in traditional medicine to treat colic, indigestion, and other gastrointestinal disorders."
+    },
+    {
+      "name": "Collard",
+      "species": "Symplocarpus foetidus",
+      "description": "Collard, also known as skunk cabbage or eastern skunk cabbage, is a species of flowering plant in the Araceae family, native to eastern North America. It is a perennial herb that typically grows in wetlands, swamps, and marshy areas. Collard is known for its distinctive odor and is often one of the first plants to emerge in the spring, providing early forage for pollinators."
+    },
+    {
+      "name": "Hare's colwort",
+      "species": "Sonchus oleraceus",
+      "description": "Hare's colwort, also known as common sowthistle, is a species of flowering plant in the Asteraceae family, native to Europe and Asia. It is an annual or biennial herb that typically grows in disturbed habitats, fields, and gardens. Hare's colwort is edible and has been used as a leafy vegetable in salads, soups, and stir-fries."
+    },
+    {
+      "name": "Brilliant coneflower",
+      "species": "Rudbeckia fulgida",
+      "description": "Brilliant coneflower is a species of flowering plant in the Asteraceae family, native to eastern and central North America. It is a perennial herb that typically grows in prairies, meadows, and open woodlands. Brilliant coneflower is known for its showy yellow to orange flowers with dark brown centers and is a popular choice for garden borders and landscaping."
+    },
+    {
+      "name": "Cutleaf coneflower",
+      "species": "Rudbeckia laciniata",
+      "description": "Cutleaf coneflower is a species of flowering plant in the Asteraceae family, native to eastern and central North America. It is a tall perennial herb that typically grows in wet meadows, stream banks, and open woodlands. Cutleaf coneflower is known for its deeply lobed leaves and bright yellow flowers, which attract pollinators like bees and butterflies."
+    },
+    {
+      "name": "Eastern coneflower",
+      "species": "Rudbeckia fulgida",
+      "description": "Eastern coneflower is a species of flowering plant in the Asteraceae family, native to eastern and central North America. It is a perennial herb that typically grows in prairies, meadows, and open woodlands. Eastern coneflower is known for its showy yellow to orange flowers with dark brown centers and is a popular choice for garden borders and landscaping."
+    },
+    {
+      "name": "Green-headed Coneflower",
+      "species": "Rudbeckia laciniata",
+      "description": "Green-headed coneflower is a species of flowering plant in the Asteraceae family, native to eastern and central North America. It is a tall perennial herb that typically grows in wet meadows, stream banks, and open woodlands. Green-headed coneflower is known for its deeply lobed leaves and bright yellow flowers, which attract pollinators like bees and butterflies."
+    },
+    {
+      "name": "Orange coneflower",
+      "species": "Rudbeckia fulgida",
+      "description": "Orange coneflower is a species of flowering plant in the Asteraceae family, native to eastern and central North America. It is a perennial herb that typically grows in prairies, meadows, and open woodlands. Orange coneflower is known for its showy yellow to orange flowers with dark brown centers and is a popular choice for garden borders and landscaping."
+    },
+    {
+      "name": "Tall coneflower",
+      "species": "Rudbeckia laciniata",
+      "description": "Tall coneflower is a species of flowering plant in the Asteraceae family, native to eastern and central North America. It is a tall perennial herb that typically grows in wet meadows, stream banks, and open woodlands. Tall coneflower is known for its deeply lobed leaves and bright yellow flowers, which attract pollinators like bees and butterflies."
+    },
+    {
+      "name": "Thin-leaved Coneflower",
+      "species": "Rudbeckia triloba",
+      "description": "Thin-leaved coneflower is a species of flowering plant in the Asteraceae family, native to eastern and central North America. It is a short-lived perennial herb that typically grows in prairies, meadows, and open woodlands. Thin-leaved coneflower is known for its daisy-like yellow flowers with prominent brownish-black centers, which attract bees and butterflies."
+    },
+    {
+      "name": "Three-leaved Coneflower",
+      "species": "Rudbeckia triloba",
+      "description": "Three-leaved coneflower is a species"
+    },
+    {
+      "name": "Cornelian tree",
+      "species": "Cornus florida",
+      "description": "Cornelian tree, also known as flowering dogwood, is a species of deciduous tree in the Cornaceae family, native to eastern North America. It is known for its showy spring flowers, which consist of small, yellowish-green blooms surrounded by four large white or pink bracts. Cornelian tree is popular in landscaping for its ornamental value and is also cultivated for its hard, dense wood."
+    },
+    {
+      "name": "Corydalis",
+      "species": "Corydalis spp.",
+      "description": "Corydalis is a genus of flowering plants in the Papaveraceae family, native to temperate regions of the Northern Hemisphere. It includes numerous species of annual and perennial herbs, commonly known as fumitories. Corydalis plants are valued for their delicate, spurred flowers, which come in various colors and are attractive to pollinators like bees and butterflies."
+    },
+    {
+      "name": "Fern-leaf Corydalis",
+      "species": "Corydalis chelidoniifolia",
+      "description": "Fern-leaf corydalis is a species of flowering plant in the Papaveraceae family, native to central and southern Europe. It is a perennial herb that typically grows in rocky habitats, woodland edges, and meadows. Fern-leaf corydalis is known for its finely divided, fern-like leaves and clusters of tubular, spurred flowers, which range in color from white to pink."
+    },
+    {
+      "name": "Golden corydalis",
+      "species": "Corydalis aurea",
+      "description": "Golden corydalis is a species of flowering plant in the Papaveraceae family, native to eastern North America. It is a perennial herb that typically grows in woodlands, rocky slopes, and shaded areas. Golden corydalis is known for its bright yellow, tubular flowers, which appear in spring and early summer and provide nectar for pollinators like bees and butterflies."
+    },
+    {
+      "name": "Pale corydalis",
+      "species": "Corydalis flavula, Corydalis sempervirens",
+      "description": "Pale corydalis, also known as yellow fumewort, is a species of flowering plant in the Papaveraceae family, native to eastern North America. It is a perennial herb that typically grows in woodlands, thickets, and shaded areas. Pale corydalis is known for its delicate, tubular flowers, which range in color from pale yellow to pinkish-white."
+    },
+    {
+      "name": "Pink corydalis",
+      "species": "Corydalis sempervirens",
+      "description": "Pink corydalis is a species of flowering plant in the Papaveraceae family, native to eastern North America. It is a perennial herb that typically grows in woodlands, thickets, and shaded areas. Pink corydalis is known for its delicate, tubular flowers, which range in color from pale pink to purplish-pink."
+    },
+    {
+      "name": "Yellow corydalis",
+      "species": "Corydalis lutea, Corydalis flavula",
+      "description": "Yellow corydalis, also known as yellow fumewort, is a species of flowering plant in the Papaveraceae family, native to Europe and Asia. It is a perennial herb that typically grows in woodlands, rocky slopes, and disturbed habitats. Yellow corydalis is known for its bright yellow, tubular flowers, which appear in spring and early summer and attract pollinators like bees and butterflies."
+    },
+    {
+      "name": "Cotton plant",
+      "species": "Gossypium",
+      "description": "Cotton plant is a genus of flowering plants in the Malvaceae family, native to tropical and subtropical regions around the world. It includes several species of shrubs and small trees, commonly cultivated for their soft, fluffy fibers, which are used to make cotton fabric. Cotton plants are important economically and culturally, playing a significant role in the textile industry."
+    },
+    {
+      "name": "Creeping yellowcress",
+      "species": "Rorippa sylvestris",
+      "description": "Creeping yellowcress is a species of flowering plant in the Brassicaceae family, native to Europe, western Asia, and northern Africa. It is a perennial herb that typically grows in wet habitats, such as marshes, ditches, and stream banks. Creeping yellowcress is known for its small, yellow flowers and creeping growth habit, which allows it to spread rapidly in favorable conditions."
+    },
+    {
+      "name": "Cress",
+      "species": "(several genera)",
+      "description": "Cress is a common name for various flowering plants in several genera within the Brassicaceae family, including Lepidium, Cardamine, and Barbarea. These plants are characterized by their edible leaves and peppery flavor, which adds a zesty kick to salads, sandwiches, and other dishes. Cress is often grown as a microgreen or sprout and is valued for its high nutritional content."
+    },
+    {
+      "name": "American cress",
+      "species": "Barbarea verna",
+      "description": "American cress, also known as upland cress or winter cress, is a species of flowering plant in the Brassicace"
+    },
+    {
+      "name": "Bermuda cress",
+      "species": "Barbarea verna",
+      "description": "Bermuda cress, also known as upland cress or American cress, is a species of flowering plant in the Brassicaceae family, native to Europe and western Asia. It is a biennial or perennial herb that typically grows in fields, meadows, and disturbed habitats. Bermuda cress is valued as an edible plant, with young leaves and shoots used in salads, soups, and stir-fries."
+    },
+    {
+      "name": "Bulbous cress",
+      "species": "Cardamine bulbosa",
+      "description": "Bulbous cress is a species of flowering plant in the Brassicaceae family, native to eastern North America. It is a perennial herb that typically grows in wet woods, stream banks, and shaded areas. Bulbous cress is known for its small, white flowers and bulbous underground stems, which give it its common name. It is edible and has been used as a potherb in traditional cuisine."
+    },
+    {
+      "name": "Lamb's cress",
+      "species": "Cardamine hirsuta",
+      "description": "Lamb's cress is a species of flowering plant in the Brassicaceae family, native to Europe and Asia. It is an annual or biennial herb that typically grows in fields, gardens, and disturbed habitats. Lamb's cress is known for its small, white flowers and deeply lobed leaves, which are edible and have a slightly peppery flavor. It is often used in salads and garnishes."
+    },
+    {
+      "name": "Land cress",
+      "species": "Barbarea verna, Cardamine hirsuta",
+      "description": "Land cress is a plant that encompasses species from both the Barbarea and Cardamine genera. It may refer to Barbarea verna, also known as American cress or Bermuda cress, and Cardamine hirsuta, also known as lamb's cress. Both species are edible and valued for their peppery flavor, with young leaves and shoots used in salads, sandwiches, and other culinary dishes."
+    },
+    {
+      "name": "Scurvy cress",
+      "species": "Barbarea verna",
+      "description": "Scurvy cress, also known as American cress or Bermuda cress, is a species of flowering plant in the Brassicaceae family, native to Europe and western Asia. It is a biennial or perennial herb that typically grows in fields, meadows, and disturbed habitats. Scurvy cress is valued as an edible plant, with young leaves and shoots used in salads, soups, and stir-fries."
+    },
+    {
+      "name": "Spring cress",
+      "species": "Cardamine bulbosa",
+      "description": "Spring cress is a species of flowering plant in the Brassicaceae family, native to eastern North America. It is a perennial herb that typically grows in wet woods, stream banks, and shaded areas. Spring cress is known for its small, white flowers and bulbous underground stems, which give it its common name. It is edible and has been used as a potherb in traditional cuisine."
+    },
+    {
+      "name": "Upland cress",
+      "species": "Barbarea verna",
+      "description": "Upland cress, also known as American cress or Bermuda cress, is a species of flowering plant in the Brassicaceae family, native to Europe and western Asia. It is a biennial or perennial herb that typically grows in fields, meadows, and disturbed habitats. Upland cress is valued as an edible plant, with young leaves and shoots used in salads, soups, and stir-fries."
+    },
+    {
+      "name": "Crowfoot",
+      "species": "Cardamine concatenata",
+      "description": "Crowfoot, also known as cutleaf toothwort or pepper root, is a species of flowering plant in the Brassicaceae family, native to eastern North America. It is a perennial herb that typically grows in rich, moist woods and floodplains. Crowfoot is known for its small, white flowers and deeply lobed leaves, which are edible and have a pungent, peppery flavor."
+    },
+    {
+      "name": "Crow's nest",
+      "species": "Daucus carota",
+      "description": "Crow's nest, also known as wild carrot or Queen Anne's lace, is a species of flowering plant in the Apiaceae family, native to Europe and Asia. It is a biennial herb that typically grows in fields, meadows, and roadsides. Crow's nest is known for its umbel-shaped clusters of white flowers and distinctive finely divided leaves. The plant is edible, and its root has a carrot-like flavor."
+    },
+    {
+      "name": "Crow's toes",
+      "species": "Cardamine concatenata",
+      "description": "Crow's toes, also known as cutleaf toothwort or pepper root, is a species of flowering plant in the Brassicaceae family, native to eastern North America. It is a perennial herb that typically grows in rich, moist woods and floodplains. Crow's toes is known for its small, white flowers and deeply lobed leaves, which are edible and have a pungent, peppery flavor."
+    },
+    {
+      "name": "Cucumber",
+      "species": "Cucumis sativus",
+      "description": "Cucumber is a widely cultivated plant in the gourd family, Cucurbitaceae. It is a creeping vine that bears cylindrical fruits used as culinary vegetables. Cucumbers are native to South Asia but are now grown in many parts of the world for their crisp texture and mild flavor. They are commonly eaten raw in salads or pickled."
+    },
+    {
+      "name": "Brown daisy",
+      "species": "Rudbeckia hirta",
+      "description": "Brown daisy is a common name for Rudbeckia hirta, a species of flowering plant in the Asteraceae family. It is native to North America and is known for its daisy-like flowers with brown or black centers and yellow or orange petals. Brown daisy is cultivated in gardens for its ornamental value and is also used in wildflower meadows and pollinator gardens."
+    },
+    {
+      "name": "Common daisy",
+      "species": "Bellis perennis",
+      "description": "Common daisy, also known simply as daisy, is a species of flowering plant in the Asteraceae family. It is native to Europe, but has been widely naturalized in other regions. Common daisy is a perennial herbaceous plant with white or pinkish flowers and a yellow center. It is often found in lawns, meadows, and other grassy areas."
+    },
+    {
+      "name": "Gloriosa daisy",
+      "species": "Rudbeckia hirta",
+      "description": "Gloriosa daisy is a cultivar of Rudbeckia hirta, a species of flowering plant in the Asteraceae family. It is native to North America and is known for its showy, daisy-like flowers with brown or black centers and yellow or orange petals. Gloriosa daisy is popular in gardens and landscapes for its vibrant colors and long-lasting blooms."
+    },
+    {
+      "name": "Poorland daisy",
+      "species": "Rudbeckia hirta",
+      "description": "Poorland daisy is a common name for Rudbeckia hirta, a species of flowering plant in the Asteraceae family. It is native to North America and is known for its daisy-like flowers with brown or black centers and yellow or orange petals. Poorland daisy is often found in disturbed habitats, fields, and roadsides."
+    },
+    {
+      "name": "Yellow daisy",
+      "species": "Rudbeckia hirta",
+      "description": "Yellow daisy is a common name for Rudbeckia hirta, a species of flowering plant in the Asteraceae family. It is native to North America and is known for its daisy-like flowers with brown or black centers and yellow or orange petals. Yellow daisy is cultivated in gardens for its ornamental value and is also used in wildflower meadows and pollinator gardens."
+    },
+    {
+      "name": "Yellow ox-eye daisy",
+      "species": "Rudbeckia hirta",
+      "description": "Yellow ox-eye daisy is a common name for Rudbeckia hirta, a species of flowering plant in the Asteraceae family. It is native to North America and is known for its daisy-like flowers with brown or black centers and yellow or orange petals. Yellow ox-eye daisy is cultivated in gardens for its ornamental value and is also used in wildflower meadows and pollinator gardens."
+    },
+    {
+      "name": "Deadnettle",
+      "species": "Lamium spp.",
+      "description": "Deadnettle is a common name for plants in the Lamium genus, which belongs to the mint family, Lamiaceae. These herbaceous perennials are native to Europe, Asia, and North Africa, and they are characterized by their square stems, opposite leaves, and tubular flowers. Deadnettles are often cultivated as ornamental plants for their attractive foliage and flowers."
+    },
+    {
+      "name": "Henbit deadnettle",
+      "species": "Lamium amplexicaule",
+      "description": "Henbit deadnettle is a species of flowering plant in the Lamium genus, native to Europe, Asia, and North Africa. It is an annual herb that typically grows in fields, gardens, and disturbed habitats. Henbit deadnettle is known for its purple flowers and toothed leaves, and it is often considered a weed in agricultural settings."
+    },
+    {
+      "name": "Spotted deadnettle",
+      "species": "Lamium maculatum",
+      "description": "Spotted deadnettle is a species of flowering plant in the Lamium genus, native to Europe and western Asia. It is a herbaceous perennial that typically grows in woodlands, meadows, and gardens. Spotted deadnettle is known for its variegated foliage and tubular flowers, and it is often cultivated as an ornamental ground cover."
+    },
+    {
+      "name": "Devil's bite",
+      "species": "Veratrum viride",
+      "description": "Devil's bite, also known as green false hellebore, is a species of flowering plant in the Melanthiaceae family, native to North"
+    },
+    {
+      "name": "Swamp dewberry",
+      "species": "Rubus hispidus",
+      "description": "Swamp dewberry is a species of flowering plant in the Rubus genus, native to North America. It is a trailing vine that typically grows in wet, swampy areas, along stream banks, and in wooded areas. Swamp dewberry produces small white flowers in spring, followed by edible black berries that are enjoyed by wildlife and sometimes used by humans for jams and pies."
+    },
+    {
+      "name": "Dindle",
+      "species": "Sonchus arvensis",
+      "description": "Dindle, also known as perennial sowthistle, is a species of flowering plant in the Asteraceae family, native to Europe and Asia. It is a perennial herb that grows in disturbed habitats, agricultural fields, and along roadsides. Dindle has yellow flowers and lobed leaves, and it is often considered a weed in crop fields."
+    },
+    {
+      "name": "Dogwood",
+      "species": "Cornus spp.",
+      "description": "Dogwood is a genus of flowering plants in the Cornaceae family, comprising around 60 species of deciduous trees and shrubs. They are native to temperate and subtropical regions of the Northern Hemisphere. Dogwoods are known for their distinctive flowers, which are often surrounded by showy bracts. They are commonly cultivated for their ornamental value in gardens and landscapes."
+    },
+    {
+      "name": "American dogwood",
+      "species": "Cornus florida",
+      "description": "American dogwood, also known as flowering dogwood, is a species of flowering plant in the Cornaceae family, native to eastern North America. It is a small deciduous tree that typically grows in understory forests and woodland edges. American dogwood is famous for its showy white or pink flowers and red berries, and it is widely cultivated as an ornamental tree."
+    },
+    {
+      "name": "Florida dogwood",
+      "species": "Cornus florida",
+      "description": "Florida dogwood, also known as American dogwood or flowering dogwood, is a species of flowering plant in the Cornaceae family, native to eastern North America. It is a small deciduous tree that typically grows in understory forests and woodland edges. Florida dogwood is prized for its showy white or pink flowers and red berries, and it is a popular choice for gardens and landscapes."
+    },
+    {
+      "name": "Flowering dogwood",
+      "species": "Cornus florida",
+      "description": "Flowering dogwood, also known as American dogwood or Florida dogwood, is a species of flowering plant in the Cornaceae family, native to eastern North America. It is a small deciduous tree that typically grows in understory forests and woodland edges. Flowering dogwood is admired for its showy white or pink flowers and red berries, and it is widely cultivated for ornamental purposes."
+    },
+    {
+      "name": "Japanese flowering dogwood",
+      "species": "Cornus kousa",
+      "description": "Japanese flowering dogwood, also known as kousa dogwood, is a species of flowering plant in the Cornaceae family, native to East Asia. It is a small deciduous tree or multi-stemmed shrub that is cultivated for its ornamental value. Japanese flowering dogwood produces clusters of white or pink flowers in late spring, followed by strawberry-like fruits."
+    },
+    {
+      "name": "Kousa dogwood",
+      "species": "Cornus kousa",
+      "description": "Kousa dogwood, also known as Japanese flowering dogwood, is a species of flowering plant in the Cornaceae family, native to East Asia. It is a small deciduous tree or multi-stemmed shrub that is cultivated for its ornamental value. Kousa dogwood produces clusters of white or pink flowers in late spring, followed by strawberry-like fruits."
+    },
+    {
+      "name": "Drumstick",
+      "species": "Moringa oleifera",
+      "description": "Drumstick, also known as horseradish tree or moringa, is a fast-growing deciduous tree native to the Indian subcontinent. It is cultivated in tropical and subtropical regions worldwide for its edible pods, leaves, flowers, and seeds, which are highly nutritious and have medicinal properties. Drumstick is valued for its ability to thrive in dry and nutrient-poor soils."
+    },
+    {
+      "name": "Pacific dogwood",
+      "species": "Cornus nuttallii",
+      "description": "Pacific dogwood is a species of flowering plant in the Cornaceae family, native to western North America. It is a small deciduous tree that typically grows in forests and woodland areas. Pacific dogwood is admired for its showy white flowers, which bloom in spring, and its red berries. It is valued for its ornamental beauty and is sometimes planted in gardens and landscapes."
+    },
+    {
+      "name": "Silky dogwood",
+      "species": "Cornus amomum",
+      "description": "Silky dogwood is a species of flowering plant in the Cornaceae family, native to eastern North America. It is a deciduous shr"
+    },
+    {
+      "name": "Swamp dogwood",
+      "species": "Cornus amomum",
+      "description": "Swamp dogwood, also known as silky dogwood, is a species of flowering plant in the Cornaceae family, native to eastern North America. It is a deciduous shrub that typically grows in wetland habitats, such as swamps, stream banks, and floodplains. Swamp dogwood is valued for its ornamental clusters of white flowers and bluish-black berries, which provide food for birds and other wildlife."
+    },
+    {
+      "name": "Duck retten",
+      "species": "Veratrum viride",
+      "description": "Duck retten, also known as green false hellebore or Indian poke, is a species of flowering plant in the Melanthiaceae family, native to North America. It is a herbaceous perennial that typically grows in moist mountain meadows and stream banks. Duck retten has large, ribbed leaves and produces tall spikes of greenish-white flowers. All parts of the plant are highly toxic if ingested."
+    },
+    {
+      "name": "Duscle",
+      "species": "Solanum nigrum",
+      "description": "Duscle, also known as black nightshade, is a species of flowering plant in the Solanaceae family, native to Eurasia. It is an annual herb that grows in disturbed habitats, gardens, and agricultural fields. Duscle has small white flowers and shiny black berries that are toxic if ingested in large quantities. Despite its toxicity, the plant has been used in traditional medicine."
+    },
+    {
+      "name": "Dye-leaves",
+      "species": "Ilex glabra",
+      "description": "Dye-leaves, also known as inkberry or gallberry, is a species of flowering plant in the Aquifoliaceae family, native to eastern North America. It is an evergreen shrub that typically grows in wetlands, swamps, and coastal areas. Dye-leaves produces small white flowers and black berries that persist through the winter. The berries have been used to make black dye."
+    },
+    {
+      "name": "Earth gall",
+      "species": "Veratrum viride",
+      "description": "Earth gall, also known as green false hellebore or Indian poke, is a species of flowering plant in the Melanthiaceae family, native to North America. It is a herbaceous perennial that typically grows in moist mountain meadows and stream banks. Earth gall has large, ribbed leaves and produces tall spikes of greenish-white flowers. All parts of the plant are highly toxic if ingested."
+    },
+    {
+      "name": "English bull's eye",
+      "species": "Rudbeckia hirta",
+      "description": "English bull's eye is a common name for Rudbeckia hirta, a species of flowering plant in the Asteraceae family. It is native to North America and is known for its daisy-like flowers with brown or black centers and yellow or orange petals. English bull's eye is cultivated in gardens for its ornamental value and is also used in wildflower meadows and pollinator gardens."
+    },
+    {
+      "name": "Eucalyptus",
+      "species": "Eucalyptus spp.",
+      "description": "Eucalyptus is a genus of over 700 species of flowering trees and shrubs in the myrtle family, Myrtaceae. Most species are native to Australia, but some are found in New Guinea, Indonesia, and the Philippines. Eucalyptus trees are known for their aromatic leaves and distinctive bark. They are widely cultivated for timber, essential oils, and landscaping."
+    },
+    {
+      "name": "Extinguisher moss",
+      "species": "Encalypta",
+      "description": "Extinguisher moss is a common name for species in the Encalypta genus, which belongs to the Encalyptaceae family of mosses. These mosses are widespread and can be found in various habitats, including soil, rocks, and tree trunks. Encalypta mosses are small and inconspicuous, with capsule-like structures that resemble extinguishers, hence the common name."
+    },
+    {
+      "name": "Eytelia",
+      "species": "Amphipappus",
+      "description": "Eytelia is a genus of flowering plants in the Asteraceae family, native to North America. It comprises two species of perennial herbs that grow in desert regions of the southwestern United States and northern Mexico. Eytelia plants have small yellow flowers and linear leaves. They are adapted to arid environments and are often found in sandy or rocky soils."
+    },
+    {
+      "name": "Fair-maid-of-France",
+      "species": "Achillea ptarmica",
+      "description": "Fair-maid-of-France, also known as sneezewort, is a species of flowering plant in the Asteraceae family, native to Europe and Asia. It is a herbaceous perennial that typically grows in damp meadows, marshes, and along riverbanks. Fair-maid-of-France has clusters of white or pale pink flowers and aromatic foliage. It has been used in traditional medicine and as a garden ornamental."
+    },
+    {
+      "name": "Fellenwort",
+      "species": "Solanum dulcamara",
+      "description": "Fellenwort, also known as bittersweet nightshade, is a species of flowering plant in the Solanaceae family, native to Europe and Asia. It is a perennial vine that grows in a variety of habitats, including woodlands, hedgerows, and disturbed areas. Fellenwort has purple flowers and red berries that are toxic if ingested. Despite its toxicity, the plant has been used in traditional medicine."
+    },
+    {
+      "name": "Felonwood",
+      "species": "Solanum dulcamara",
+      "description": "Felonwood, also known as bittersweet nightshade, is a species of flowering plant in the Solanaceae family, native to Europe and Asia. It is a perennial vine that grows in a variety of habitats, including woodlands, hedgerows, and disturbed areas. Fel"
+    },
+    {
+      "name": "Boston fern or sword fern",
+      "species": "Nephrolepis exaltata",
+      "description": "Boston fern, also known as sword fern, is a species of fern in the Nephrolepis genus, native to tropical regions of the Americas. It is one of the most popular ferns grown as a houseplant due to its graceful arching fronds. Boston ferns are commonly used as ornamental plants in gardens, landscapes, and indoor spaces. They prefer moist, humid environments with indirect light."
+    },
+    {
+      "name": "Christmas fern",
+      "species": "Polystichum acrostichoides",
+      "description": "Christmas fern is a species of fern in the Polystichum genus, native to eastern North America. It is named for its evergreen fronds, which are often used in holiday decorations. Christmas ferns are commonly found in woodlands, rocky slopes, and ravines. They are valued for their ornamental foliage and are sometimes cultivated for landscaping and naturalizing."
+    },
+    {
+      "name": "Coast polypody",
+      "species": "Polypodium scouleri",
+      "description": "Coast polypody is a species of fern in the Polypodium genus, native to western North America. It is commonly found in coastal forests, rocky cliffs, and other humid habitats. Coast polypody has evergreen fronds with deeply lobed leaflets. It is often used as a ground cover in shaded areas and is valued for its ornamental foliage."
+    },
+    {
+      "name": "Kimberly queen fern",
+      "species": "Nephrolepis obliterata",
+      "description": "Kimberly queen fern is a cultivar of Nephrolepis obliterata, a species of fern native to Australia. It is known for its upright growth habit and compact form, making it well-suited for containers and hanging baskets. Kimberly queen ferns have dark green fronds with gracefully arching tips. They are popular ornamental plants for shady gardens, patios, and indoor spaces."
+    },
+    {
+      "name": "Korean rock fern",
+      "species": "Polystichum tsus-simense",
+      "description": "Korean rock fern is a species of fern in the Polystichum genus, native to East Asia. It is commonly found growing on rocky slopes, cliffs, and forested areas. Korean rock fern has glossy, dark green fronds with triangular leaflets. It is valued for its ornamental foliage and is sometimes cultivated as a garden plant in temperate regions."
+    },
+    {
+      "name": "Mosquito fern",
+      "species": "Azolla caroliniana",
+      "description": "Mosquito fern is a species of aquatic fern in the Azolla genus, native to the Americas. It is commonly found floating on the surface of slow-moving or stagnant water bodies, such as ponds, lakes, and marshes. Mosquito ferns form dense mats that provide habitat for small aquatic organisms. They are often used in freshwater aquaria and as green manure in rice paddies."
+    },
+    {
+      "name": "Sword ferns",
+      "species": "Polystichum spp.",
+      "description": "Sword ferns are a group of fern species in the Polystichum genus, characterized by their evergreen fronds with elongated leaflets resembling swords. They are native to various regions of the world and are commonly found in forests, woodlands, and rocky slopes. Sword ferns are valued for their ornamental foliage and are popular choices for landscaping and naturalizing."
+    },
+    {
+      "name": "Water fern",
+      "species": "Azolla caroliniana",
+      "description": "Water fern is a species of aquatic fern in the Azolla genus, native to the Americas. It is commonly found floating on the surface of slow-moving or stagnant water bodies, such as ponds, lakes, and marshes. Water ferns form dense mats that provide habitat for small aquatic organisms. They are often used in freshwater aquaria and as green manure in rice paddies."
+    },
+    {
+      "name": "Western sword fern",
+      "species": "Polystichum munitum",
+      "description": "Western sword fern is a species of fern in the Polystichum genus, native to western North America. It is commonly found in forests, woodlands, and shaded ravines. Western sword fern has large, dark green fronds with elongated leaflets. It is valued for its ornamental foliage and is sometimes cultivated as a garden plant for landscaping."
+    },
+    {
+      "name": "Feverbush",
+      "species": "Ilex verticillata",
+      "description": "Feverbush, also known as winterberry or Michigan holly, is a species of holly native to eastern North America. It is a deciduous shrub that typically grows in wetland habitats, such as swamps, bogs, and floodplains. Feverbush is valued for its bright red berries, which persist through the winter and provide food for birds. It is sometimes cultivated for ornamental landscaping."
+    },
+    {
+      "name": "Feverfew",
+      "species": "Tanacetum parthenium",
+      "description": "Feverfew is a species of flowering plant in the Asteraceae family, native to"
+    },
+    {
+      "name": "European flax",
+      "species": "Linum usitatissimum",
+      "description": "European flax, also known as common flax or linseed, is a species of flowering plant in the Linaceae family, native to the Mediterranean region. It is cultivated for its fiber and seeds, which are used to make linen fabric, linseed oil, and food products. European flax is an annual herbaceous plant with slender stems and blue flowers. It has been cultivated for thousands of years for its versatile uses."
+    },
+    {
+      "name": "New Zealand flax",
+      "species": "Phormium tenax, Phormium colensoi",
+      "description": "New Zealand flax is a species of flowering plant in the Phormium genus, native to New Zealand and Norfolk Island. It is cultivated for its fiber, which is used to make rope, mats, and textiles. New Zealand flax has long, sword-like leaves and produces tall flower spikes with red or yellow flowers. It is a popular ornamental plant in gardens and landscapes."
+    },
+    {
+      "name": "Fluxroot",
+      "species": "Asclepias tuberosa",
+      "description": "Fluxroot, also known as butterfly weed or butterfly milkweed, is a species of flowering plant in the Apocynaceae family, native to North America. It is a perennial herb that typically grows in prairies, meadows, and along roadsides. Fluxroot has vibrant orange flowers that attract butterflies and other pollinators. It is sometimes cultivated in gardens for its ornamental value and as a nectar source for butterflies."
+    },
+    {
+      "name": "Yellow fumewort",
+      "species": "Corydalis flavula",
+      "description": "Yellow fumewort is a species of flowering plant in the Papaveraceae family, native to Europe and Asia. It is a herbaceous perennial that typically grows in woodlands and shady habitats. Yellow fumewort has delicate yellow flowers and finely divided leaves. It is valued as an ornamental plant for its early spring blooms and fern-like foliage."
+    },
+    {
+      "name": "Gallberry",
+      "species": "Ilex glabra",
+      "description": "Gallberry is a species of holly in the Aquifoliaceae family, native to the southeastern United States. It is an evergreen shrub that typically grows in wetland habitats, such as swamps, bogs, and marshes. Gallberry has glossy, dark green leaves and produces small white flowers that give way to black berries. It is valued for its ornamental foliage and is sometimes used in landscaping and holiday decorations."
+    },
+    {
+      "name": "Garget",
+      "species": "Phytolacca americana",
+      "description": "Garget, also known as American pokeweed or pokeberry, is a species of flowering plant in the Phytolaccaceae family, native to North America. It is a herbaceous perennial that typically grows in fields, meadows, and disturbed areas. Garget has large, lance-shaped leaves and produces clusters of white flowers followed by dark purple berries. While parts of the plant are toxic, it has been used in traditional medicine and as a source of dye."
+    },
+    {
+      "name": "Golden garlic",
+      "species": "Allium moly",
+      "description": "Golden garlic is a species of flowering plant in the Amaryllidaceae family, native to Europe and North Africa. It is a bulbous perennial that typically grows in rocky habitats and grasslands. Golden garlic has yellow flowers arranged in umbels atop slender stems. It is sometimes cultivated as an ornamental plant for its bright blooms and deer-resistant properties."
+    },
+    {
+      "name": "Wild garlic",
+      "species": "Allium canadense",
+      "description": "Wild garlic, also known as Canada garlic or meadow garlic, is a species of flowering plant in the Amaryllidaceae family, native to North America. It is a bulbous perennial that typically grows in moist meadows, prairies, and woodland edges. Wild garlic has clusters of white to pinkish flowers and onion-like bulbs. It is sometimes used as a culinary herb and has a garlic-like flavor."
+    },
+    {
+      "name": "Garlic mustard",
+      "species": "Alliaria petiolata",
+      "description": "Garlic mustard, also known as Jack-by-the-hedge or hedge garlic, is a biennial or perennial herb in the Brassicaceae family, native to Europe and western Asia. It is an invasive species in many parts of North America and other regions. Garlic mustard has small white flowers and triangular to heart-shaped leaves with a garlic-like odor when crushed. It outcompetes native plants and is considered a problematic weed in natural habitats."
+    },
+    {
+      "name": "Garlic root",
+      "species": "Alliaria petiolata",
+      "description": "Garlic root"
+    },
+    {
+      "name": "Rogue's gilliflower",
+      "species": "Hesperis matronalis",
+      "description": "Rogue's gilliflower is a common name for Hesperis matronalis, a species of flowering plant in the Brassicaceae family. It is native to Eurasia and has been introduced to other regions as an ornamental plant. Rogue's gilliflower has clusters of fragrant purple or white flowers that bloom in late spring to early summer. It is sometimes cultivated in gardens for its attractive blooms and sweet scent."
+    },
+    {
+      "name": "Winter gilliflower",
+      "species": "Hesperis matronalis",
+      "description": "Winter gilliflower is a common name for Hesperis matronalis, a species of flowering plant in the Brassicaceae family. It is native to Eurasia and has been introduced to other regions as an ornamental plant. Winter gilliflower has clusters of fragrant purple or white flowers that bloom in late spring to early summer. It is sometimes cultivated in gardens for its attractive blooms and sweet scent."
+    },
+    {
+      "name": "Golden buttons",
+      "species": "Tanacetum vulgare",
+      "description": "Golden buttons is a common name for Tanacetum vulgare, a species of flowering plant in the Asteraceae family. It is native to Europe and Asia and has been introduced to other parts of the world. Golden buttons has bright yellow, button-like flower heads that bloom in summer. It is sometimes cultivated in gardens for its ornamental value and is also used in traditional medicine."
+    },
+    {
+      "name": "Goldenglow",
+      "species": "Rudbeckia laciniata",
+      "description": "Goldenglow is a common name for Rudbeckia laciniata, a species of flowering plant in the Asteraceae family. It is native to eastern North America and is known for its tall stature and bright yellow flowers with brown centers. Goldenglow blooms in late summer to early fall and is valued for its ornamental beauty. It is commonly cultivated in gardens and landscapes."
+    },
+    {
+      "name": "Golden Jerusalem",
+      "species": "Rudbeckia hirta",
+      "description": "Golden Jerusalem is a common name for Rudbeckia hirta, a species of flowering plant in the Asteraceae family. It is native to North America and is known for its bright yellow flowers with dark brown or black centers. Golden Jerusalem blooms from summer to fall and is valued for its ornamental beauty. It is often cultivated in gardens, wildflower meadows, and along roadsides."
+    },
+    {
+      "name": "Gordaldo",
+      "species": "Achillea millefolium",
+      "description": "Gordaldo is a common name for Achillea millefolium, a species of flowering plant in the Asteraceae family. It is native to Europe and Asia and has been introduced to other regions. Gordaldo has clusters of small white flowers and finely divided leaves. It is sometimes cultivated in gardens for its ornamental value and is also used in herbal medicine for various purposes."
+    },
+    {
+      "name": "Goose tongue",
+      "species": "Achillea ptarmica",
+      "description": "Goose tongue is a common name for Achillea ptarmica, a species of flowering plant in the Asteraceae family. It is native to Europe and Asia and has been introduced to other regions as an ornamental plant. Goose tongue has clusters of white flowers and lance-shaped leaves. It is sometimes cultivated in gardens and used in traditional medicine for its medicinal properties."
+    },
+    {
+      "name": "Grapefruit",
+      "species": "Citrus × paradisi",
+      "description": "Grapefruit is a citrus hybrid believed to be a cross between the sweet orange (Citrus sinensis) and the pomelo (Citrus maxima). It is known for its large size, sour to semi-sweet taste, and characteristic aroma. Grapefruits are commonly eaten fresh, juiced, or used in salads and desserts. They are also rich in vitamin C and are popular for their health benefits."
+    },
+    {
+      "name": "Grapevine",
+      "species": "Vitis",
+      "description": "Grapevine is a genus of flowering plants in the Vitaceae family, native to temperate regions of the Northern Hemisphere. It includes around 60 species of woody vines known for their edible fruit, grapes. Grapevines are cultivated worldwide for winemaking, fresh fruit consumption, and ornamental purposes. They are valued for their climbing habit and attractive foliage."
+    },
+    {
+      "name": "Groundberry",
+      "species": "Rubus hispidus",
+      "description": "Groundberry is a common name for Rubus hispidus, a species of flowering plant in the Rosaceae family. It is native to North America and is known for its trailing habit and prickly stems. Groundberry produces small white flowers followed by edible red berries that are enjoyed by wildlife and sometimes used by humans for jams and pies. It is often found in woodland habitats and along forest edges."
+    },
+    {
+      "name": "Bristly groundberry",
+      "species": "Rubus hispidus",
+      "description": "Bristly groundberry is a common name for Rubus hispidus, a species of flowering plant in the Rosaceae family. It is native to North America and is known for its trailing habit and prickly stems. Bristly groundberry produces small white flowers followed by edible red berries that are enjoyed by wildlife and sometimes used by humans for jams and pies. It is often found in woodland habitats and along forest edges."
+    },
+    {
+      "name": "Gutweed",
+      "species": "Sonchus arvensis",
+      "description": "Gutweed is a common name for Sonchus arvensis, a species of flowering plant in the Asteraceae family. It is native to Europe and Asia and has been introduced to other regions. Gutweed is an annual or biennial herb that typically grows in disturbed habitats, agricultural fields, and along roadsides. It has yellow flowers and deeply lobed leaves. Gutweed is considered a weed in crop fields."
+    },
+    {
+      "name": "Haldi",
+      "species": "Curcuma domestica",
+      "description": "Haldi, also known as turmeric, is a flowering plant of the ginger family, Zingiberaceae. It is native to the Indian subcontinent and Southeast Asia and is widely cultivated for its rhizomes, which are used as a spice, medicine, and as a dye. Haldi has a long history of use in traditional medicine, particularly in Ayurveda and traditional Chinese medicine, where it is believed to have anti-inflammatory and antioxidant properties."
+    },
+    {
+      "name": "Rock harlequin",
+      "species": "Corydalis sempervirens",
+      "description": "Rock harlequin, scientifically known as Corydalis sempervirens, is a species of flowering plant in the Papaveraceae family. It is native to eastern North America and is commonly found in rocky habitats, hence its common name. Rock harlequin produces clusters of delicate, tubular flowers that vary in color from pale pink to lavender. It is valued for its ornamental beauty and is often cultivated in rock gardens and woodland landscapes."
+    },
+    {
+      "name": "Yellow harlequin",
+      "species": "Corydalis flavula",
+      "description": "Yellow harlequin, scientifically known as Corydalis flavula, is a species of flowering plant in the Papaveraceae family. It is native to eastern North America and is commonly found in wooded areas, stream banks, and rocky slopes. Yellow harlequin produces clusters of bright yellow flowers with spurred petals. It is valued for its ornamental beauty and is sometimes cultivated in shaded gardens."
+    },
+    {
+      "name": "Hay fever weed",
+      "species": "Ambrosia artemisiifolia, Artemisia trifida",
+      "description": "Hay fever weed, also known as ragweed, refers to plants in the Ambrosia genus, particularly Ambrosia artemisiifolia, and sometimes Artemisia trifida. These plants are native to North America and are notorious for producing pollen that triggers allergic reactions in many people, causing hay fever. Hay fever weed is considered an invasive weed in some areas and is a major contributor to seasonal allergies."
+    },
+    {
+      "name": "Healing blade",
+      "species": "Plantago major",
+      "description": "Healing blade is a common name for Plantago major, a species of flowering plant in the Plantaginaceae family. It is native to Eurasia but has been introduced to other regions worldwide. Healing blade is known for its medicinal properties and has been used in traditional herbal medicine to treat various ailments. It produces distinctive lance-shaped leaves and spikes of small flowers and is sometimes cultivated for its medicinal value."
+    },
+    {
+      "name": "Hedge plant",
+      "species": "Maclura pomifera",
+      "description": "Hedge plant, scientifically known as Maclura pomifera, is a species of flowering plant in the Moraceae family. It is native to North America and is commonly found in prairies, woodlands, and along stream banks. Hedge plant is valued for its dense, thorny branches, which make it an effective hedge or barrier plant. It produces greenish-yellow, grapefruit-sized fruits that are inedible for humans but are attractive to wildlife."
+    },
+    {
+      "name": "Hellebore",
+      "species": "Helleborus",
+      "description": "Hellebore is a genus of perennial flowering plants in the Ranunculaceae family, native to Europe and Asia. It includes several species commonly known as hellebores or Lenten roses. Hellebores are valued for their early spring blooms and evergreen foliage, making them popular ornamental plants in gardens and landscapes. However, many species contain toxic compounds and should be handled with care."
+    },
+    {
+      "name": "American white hellebore",
+      "species": "Veratrum viride",
+      "description": "American white hellebore, scientifically known as Veratrum viride, is a species of flowering plant in the Melanthiaceae family. It is native to North America and is commonly found in wet meadows, marshes, and stream banks. American white hellebore produces tall spikes of white flowers and has large, ribbed leaves. It contains toxic alkaloids and should be handled with caution."
+    },
+    {
+      "name": "Big hellebore",
+      "species": "Veratrum viride",
+      "description": "Big hellebore, scientifically known as Veratrum viride, is a species of flowering plant in the Melanthiaceae family. It is native to North America and is commonly found in wet meadows, marshes, and stream banks. Big hellebore produces tall spikes of white flowers and has large, ribbed leaves. It contains toxic alkaloids and should be handled with caution."
+    }
+  ]
+}

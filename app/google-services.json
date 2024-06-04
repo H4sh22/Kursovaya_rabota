@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "299774461404",
+    "firebase_url": "https://kursovaya-c5891-default-rtdb.firebaseio.com",
+    "project_id": "kursovaya-c5891",
+    "storage_bucket": "kursovaya-c5891.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299774461404:android:1219d027e04a08546e3b19",
+        "android_client_info": {
+          "package_name": "com.example.kursovayarabota"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCebPSBHnmm6xj_yhTJkWzXS0eUGmNhkts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
